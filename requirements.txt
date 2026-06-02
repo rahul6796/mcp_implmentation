@@ -1,0 +1,15 @@
+
+langchain 
+langchain-openai 
+langchain-community 
+openai 
+anthropic 
+pydantic 
+python-dotenv 
+requests 
+httpx 
+aiohttp 
+rich 
+loguru 
+pandas 
+numpy
