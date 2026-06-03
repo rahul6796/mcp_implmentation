@@ -13,3 +13,4 @@ rich
 loguru 
 pandas 
 numpy
+langchain-mcp-adapters
